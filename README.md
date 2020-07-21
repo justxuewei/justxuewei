@@ -4,5 +4,3 @@ Hi! I'm Xavier Niu, comes from Jinan, Shandong, China.
 - 🎓 Univeristy of Jinan(2015-2019), BSc in Computer Science
 - 📱 Big apple fan
 - 📚 Work hard on macOS application development for now
-- 🧭 https://www.nxw.name
-- ✉️ a#nxw.name
