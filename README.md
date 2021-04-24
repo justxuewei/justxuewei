@@ -4,4 +4,4 @@ Hi! Welcome to my GitHub. My name is Xavier Niu. I'm from Shandong, China.
 - 📱 Big Apple fan
 - 📚 Learn Golang
 - 📚 Learn Distributed System(MIT 6.824)
-- 📚 ~~Work hard on macOS application development~~(shelved temporarily)
+- 📚 ~~Work hard on macOS application development~~(on hold)
