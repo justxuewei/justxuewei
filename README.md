@@ -14,4 +14,9 @@ If you have any question, please feel free to reach me directly via [LinkedIn](h
 
 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Project rCore: 进程间通讯](https://nxw.name/2022/project-rcore-ipc)
+- [Project rCore: 文件系统](https://nxw.name/2022/project-rcore-file-system)
+- [Linux I/O 模型介绍之 Select 和 Epoll](https://nxw.name/2022/select-and-epoll)
+- [Virtio Networking: virtio-net 和 vhost-net](https://nxw.name/2022/virtio-networking-virtio-net-vhost-net)
+- [Linux 内核网络栈](https://nxw.name/2022/linux-network-stack)
 <!-- BLOG-POST-LIST:END -->
