@@ -11,3 +11,10 @@ I'm focusing on cloud native, operating system, virtualization and middleware. A
 Posts about development and other stuff (a vast majority in Chinese🇨🇳) will be updated on my blog, [Xuewei's Blog](https://www.nxw.name), leaving a comment is always appreciated.
 
 If you have any question, please feel free to reach me directly via [LinkedIn](https://www.linkedin.com/in/%E5%AD%A6%E8%94%9A-%E7%89%9B-34b47917a/) | [Email](mailto:justxuewei@apache.org) 🤟🤟🤟
+
+---
+
+# 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
