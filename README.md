@@ -10,7 +10,7 @@ I'm focusing on cloud-native, operating systems, virtualization and middleware. 
 
 <!-- BLOG-POST-LIST:START -->
 - [Farewell BUPT](https://nxw.name/2023/bupt-graduation)
-- [网络虚拟化（一）：Virtqueue 介绍](https://nxw.name/2023/virtqueue)
+- [I/O 虚拟化（一）：Virtqueue 介绍](https://nxw.name/2023/virtqueue)
 - [奇奇怪怪的 IPv6 地址](https://nxw.name/2023/ipv6-addresses)
 - [Go 语言体系下的微服务框架选型: Dubbo-go](https://nxw.name/2023/dubbo-go-2023)
 - [使用 WireGuard 访问家庭网络](https://nxw.name/2023/wireguard)
