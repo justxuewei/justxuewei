@@ -9,11 +9,11 @@ Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here i
 I'm focusing on cloud-native, operating systems, virtualization and middleware. As a developer and open-source enthusiast, I actively contribute code to projects such as [katacontainers/katacontainers](https://github.com/kata-containers/kata-containers) and [apache/dubbo-go](https://github.com/apache/dubbo-go). Posts about development and other topics (with the vast majority in Chinese🇨🇳) will be updated on my blog, leaving a comment is always appreciated. Here are my latest posts, I hope you'll enjoy it:
 
 <!-- BLOG-POST-LIST:START -->
+- [2023 年终总结：一半学生，一半员工](https://nxw.name/2024/2023-review)
 - [Dragonball VMM 侧 Vsock 设计与实现](https://nxw.name/2023/vsock-on-vmm)
 - [Linux I/O 栈介绍](https://nxw.name/2023/linux-io)
 - [本地运行 Kata Containers CI](https://nxw.name/2023/kata-containers-ci-testing-on-local)
 - [Kata Containers 下的 kubectl exec 流程](https://nxw.name/2023/kubectl-exec-on-kata)
-- [I/O 虚拟化（二）：Virtio 协议代码走读](https://nxw.name/2023/virtqueue-code)
 <!-- BLOG-POST-LIST:END -->
 
 Reaching me directly via [LinkedIn](https://www.linkedin.com/in/%E5%AD%A6%E8%94%9A-%E7%89%9B-34b47917a/) | [Email](mailto:justxuewei@apache.org) is welcomed 🤟🤟🤟
