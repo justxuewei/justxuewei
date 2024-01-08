@@ -1,3 +1,5 @@
+![ViewCount](https://views.whatilearened.today/views/github/<justxuewei>/<justxuewei>.svg)
+
 Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here is a brief introduction about me:
 
 - 🎓 Beijing University of Posts and Telecommunications(2020-2023), MSc in Computer Science
