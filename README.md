@@ -18,4 +18,4 @@ I'm focusing on cloud-native, operating systems, virtualization and middleware. 
 - [Kata Containers 下的 kubectl exec 流程](https://nxw.name/2023/kubectl-exec-on-kata)
 <!-- BLOG-POST-LIST:END -->
 
-Reaching me out via [LinkedIn](https://www.linkedin.com/in/%E5%AD%A6%E8%94%9A-%E7%89%9B-34b47917a/) | [Email](mailto:justxuewei@apache.org) is welcomed 🤟🤟🤟
+Reaching me out via [LinkedIn](https://www.linkedin.com/in/justxuewei) | [Email](mailto:justxuewei@apache.org) is welcomed 🤟🤟🤟
