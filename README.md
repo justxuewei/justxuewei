@@ -1,4 +1,4 @@
-![ViewCount](https://views.whatilearened.today/views/github/<justxuewei>/<justxuewei>.svg)
+![ViewCount](https://views.whatilearened.today/views/github/<justxuewei>/<justxuewei>.svg) [![wakatime](https://wakatime.com/badge/user/018eae19-2c35-4919-be43-56bc26b446d9.svg)](https://wakatime.com/@018eae19-2c35-4919-be43-56bc26b446d9)
 
 Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here is a brief introduction about me:
 
