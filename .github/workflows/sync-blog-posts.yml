@@ -10,8 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in dev.to posts
+        uses: actions/checkout@v4
+      - name: Pull in nxw.name posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://nxw.name/feed.xml"
+          feed_list: "https://www.nxw.name/feed.xml"
