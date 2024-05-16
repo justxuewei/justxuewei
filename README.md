@@ -6,8 +6,8 @@ Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here i
 - 🎓 University of Jinan(2015-2019), BSc in Computer Science
 - 📱 Big Apple fan
 - ⭐️ Rustacean, Gopher
-- ⭐️ Open source enthusiast: Kata Containers Maintainer, Apache Dubbo PMC, GSoC 2022 Mentor, GLCC 2023 Mentor
-- ⭐ Interested fields: Virtualization, Kernel, Networking, Container Technologies, Kubernetes, Cloud Native
+- ⭐️ Open source enthusiast: Kata Containers Commiter, Apache Dubbo PMC, GSoC 2022 Mentor, GLCC 2023 Mentor
+- ⭐ Virtualization, Kernel, Networking, Container Technologies, Kubernetes, Cloud Native
 
 I'm focusing on cloud-native, operating systems, virtualization and middleware. As a developer and open-source enthusiast, I am actively hacking on [katacontainers/katacontainers](https://github.com/kata-containers/kata-containers) and [apache/dubbo-go](https://github.com/apache/dubbo-go). Posts about development and other topics (with the vast majority in Chinese🇨🇳) are updated on my blog. Leaving a comment is always appreciated. Here are my latest posts, hope you can enjoy it:
 
