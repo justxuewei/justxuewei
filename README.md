@@ -5,7 +5,7 @@ Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here i
 - 🎓 Beijing University of Posts and Telecommunications(2020-2023), MSc in Computer Science
 - 🎓 University of Jinan(2015-2019), BSc in Computer Science
 - 📱 Big Apple fan
-- ⭐️ Rustacean, Gopher
+- ⭐️ Rustacean, C Programmer, Gopher
 - ⭐️ Open Source Enthusiast: Kata Containers Commiter, Maybe Kernel Developer, Apache Dubbo PMC
 - ⭐ Virtualization, Kernel, Networking, Container Technologies, Kubernetes, Cloud Native
 
