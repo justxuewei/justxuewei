@@ -16,11 +16,11 @@ Powered by WakaTime [![wakatime](https://wakatime.com/badge/user/018eae19-2c35-4
 <!--START_SECTION:waka-->
 
 ```txt
-C                 11 hrs 30 mins  ███████████████▒░░░░░░░░░   61.28 %
-Rust              4 hrs 39 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.80 %
-Markdown          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-Diff              39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Makefile          38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+C                 11 hrs 57 mins  █████████████░░░░░░░░░░░░   52.09 %
+Rust              8 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   35.71 %
+Makefile          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+Markdown          40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+Diff              39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
