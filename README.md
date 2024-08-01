@@ -11,7 +11,7 @@ Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here i
 
 As a developer and open-source enthusiast, I am actively hacking on [katacontainers/katacontainers](https://github.com/kata-containers/kata-containers) and [apache/dubbo-go](https://github.com/apache/dubbo-go). Posts about development and other topics (with the vast majority in Chinese🇨🇳) are updated on [my blog](https://nxw.name). Leaving a comment is always appreciated.
 
-Recent Activities (Powered by WakaTime)
+Recent Activities👇
 
 <!--START_SECTION:waka-->
 
