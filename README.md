@@ -9,7 +9,7 @@ Hi folks, this is Xuewei Niu from Beijing. Welcome to my GitHub homepage. Here i
 - ⭐️ Open Source Enthusiast: Kata Containers Commiter, Linux Kernel Developer, Apache Dubbo PMC
 - ⭐ Linux Kernel (in virtualization and networking), Container Technologies, Cloud Native
 
-As a developer and open-source enthusiast, I am actively hacking on [katacontainers/katacontainers](https://github.com/kata-containers/kata-containers). Posts about development and other topics (with the vast majority in Chinese🇨🇳) are updated on [my blog](https://nxw.name). Leaving a comment is always appreciated.
+As a developer and open-source enthusiast, I am actively hacking on [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers). Posts about development and other topics (with the vast majority in Chinese🇨🇳) are updated on [my blog](https://nxw.name). Leaving a comment is always appreciated.
 
 Recent Activities👇
 
