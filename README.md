@@ -7,8 +7,8 @@ Here is a brief introduction about me:
 - 🎓 University of Jinan(2015-2019), BSc in Computer Science
 - 📱 Big Apple fan
 - ⭐️ Rustacean, C Programmer, Gopher
-- ⭐️ Open Source Enthusiast: Kata Containers commiter, Linux kernel developer, Apache Dubbo PMC
-- ⭐ Linux kernel (in virtualization), container technologies, cloud-native
+- ⭐️ Open Source Enthusiast: Kata Containers commiter, Linux Kernel contributer, Apache Dubbo PMC
+- ⭐ Linux Kernel (Virtualization), Cloud Native (Container Technologies)
 
 As a developer and open-source enthusiast, I am actively hacking on
 [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers). Posts about development and other topics
