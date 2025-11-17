@@ -8,7 +8,7 @@ Here is a brief introduction about me:
 - 📱 Big Apple fan
 - ⭐️ Rustacean, C Programmer, Gopher
 - ⭐️ Open Source Enthusiast: Kata Containers commiter, Linux Kernel contributer, Apache Dubbo PMC
-- ⭐ Linux Kernel (Virtualization), Cloud Native (Container Technologies)
+- ⭐ Linux Kernel (Virtualization), Cloud-Native (Container Technologies)
 
 As a developer and open-source enthusiast, I am actively hacking on
 [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers). Posts about development and other topics
