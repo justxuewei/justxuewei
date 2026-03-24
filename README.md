@@ -12,8 +12,7 @@ Here is a brief introduction about me:
 
 As a developer and open-source enthusiast, I am actively hacking on
 [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers). Posts about development and other topics
-(with the vast majority in Chinese🇨🇳) are updated on [my blog](https://nxw.name). Leaving a
-comment is always appreciated.
+are updated on [my blog](https://nxw.name). Leaving a comment is always appreciated.
 
 Recent Activities👇
 
