@@ -19,11 +19,11 @@ Recent Activities👇
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              7 hrs 8 mins          ███████████████▒░░░░░░░░░   61.83 %
-Markdown          3 hrs 44 mins         ████████░░░░░░░░░░░░░░░░░   32.41 %
-Protocol Buffer   28 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-JSON              6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-Makefile          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Rust              11 hrs 23 mins        █████████████▓░░░░░░░░░░░   54.48 %
+Markdown          6 hrs 3 mins          ███████▒░░░░░░░░░░░░░░░░░   28.99 %
+Bash              1 hr 18 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Go                42 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Protocol Buffer   30 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->
